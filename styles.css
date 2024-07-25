@@ -1,0 +1,36 @@
+h1 {
+    color:black;
+    font-family: sans-serif;
+    background-color: lightgray;
+    font-size: 30px;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    margin-left: 40%;
+    margin-right: auto;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 18px;
+}
+
+ul {
+    color: black;
+    list-style-type: square;
+    font-size: 18px;   
+}
+
+ol {
+    font-size: 18px;
+}
+
+a {
+    background-color: gray;
+    color: white;
+    font-size: 30px;
+    margin-left: 50%;
+}
