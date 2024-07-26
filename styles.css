@@ -4,6 +4,8 @@ h1 {
     background-color: lightgray;
     font-size: 30px;
     text-align: center;
+    padding: 8px;
+    margin: 0px 100px;
 }
 
 img {
@@ -16,16 +18,19 @@ img {
 p {
     font-family: "Times New Roman";
     font-size: 18px;
+    margin: 20px 100px;
 }
 
 ul {
     color: black;
     list-style-type: square;
-    font-size: 18px;   
+    font-size: 18px;
+    margin-left: 100px;   
 }
 
 ol {
     font-size: 18px;
+    margin-left:100px
 }
 
 a {
